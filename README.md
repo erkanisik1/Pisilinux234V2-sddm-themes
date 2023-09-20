@@ -1,3 +1,3 @@
-# pisiNar3-sddm-theme
+# Pisilinux234 V2 sddm themes
 New sddm themes
-![alt text](https://raw.githubusercontent.com/erkanisik1/pisiNar3-sddm-theme/main/Preview.jpg?token=GHSAT0AAAAAABY4DVWWZ7SIEA6CHXOVRBNYYZFRUZA)
+![alt text](https://raw.githubusercontent.com/erkanisik1/Pisilinux234V2-sddm-themes/main/Preview.jpg)
