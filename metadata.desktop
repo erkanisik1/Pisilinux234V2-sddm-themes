@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Pisilinux234V2
+Description=Pisilinux234 V2 SDDM theme for Pisi Linux
+Author=erkanisik
+Copyright=Copyright (C) 2023 Erkan IŞIK
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.0
+Website=https://www.pisilinux.org
+Screenshot=Preview.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=erkanisik@pisilinux.org
+Theme-Id=Pisilinux234V2
+Theme-API=2.11
