@@ -30,6 +30,19 @@ Column {
     property bool failed
 
     Item {
+        property var translations: {
+            "en": {
+                "showPassword": "showPassword",
+            
+            },
+            "tr": {
+                "showPassword": "Parolayı Göster",
+                
+            }
+        }
+    }      
+
+    Item {
         id: usernameField
 
         height: root.font.pointSize * 4.5
